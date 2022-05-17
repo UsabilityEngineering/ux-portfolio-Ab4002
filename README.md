@@ -4,7 +4,7 @@
 Hello Everyone, My name is Abigail Balbuena and I'm currently majoring in Computer Science Information System. I decided to take this class because I wanted to learn more about the Usability Engineering and it seem really interested to learn more about it. 
 
 ## UX Team Project
-
+[Happy Hour Finder](https://usabilityengineering.github.io/Happy-Hour-Finder/)
 ## UX Journal
 
 [Journal Entry 1](j01/)
